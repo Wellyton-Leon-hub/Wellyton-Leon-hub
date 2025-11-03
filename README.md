@@ -6,7 +6,7 @@ I'm **Wellyton Leon**, a **IT Technician**
 <p>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,,py,postgres,bootstrap,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,py,postgres,bootstrap,git,notion)](https://skillicons.dev)
 
 
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Baranowski&layout=compact)](https://github.com/Eduardo-Baranowski/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Baranowski&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
