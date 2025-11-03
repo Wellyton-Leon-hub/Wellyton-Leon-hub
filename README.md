@@ -1,7 +1,5 @@
 ### **Hey there** 👋
-I'm **Wellyton Leon**, a **Computer Science graduate** 🎓 passionate about mobile, web, and desktop development. Currently, I specialize in **React Native** for cross-platform apps (Android & iOS) 📱.
-
-Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning complex ideas into accessible solutions. Because technology is best when shared!
+I'm **Wellyton Leon**, a **IT Technician**
 
 <hr/>
 🔧 **Technologies & Tools**
