@@ -6,7 +6,7 @@ I'm **Wellyton Leon**, a **IT Technician**
 <p>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,py,postgres,bootstrap,git,notion,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,py,postgres,bootstrap,git,notion,mysql,node,express)](https://skillicons.dev)
 
 
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellyton-Leon-hub&layout=compact)](https://github.com/Wellyton-Leon-hub/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wellyton-Leon-hub&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
